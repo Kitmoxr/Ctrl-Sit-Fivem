@@ -1,5 +1,7 @@
 # Ctrl-Sit-Fivem
 |Fivem Script 
+|made by JVM Team
+|developer : kitmoxr
 
 |enjoy  
 
